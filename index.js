@@ -14,6 +14,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 `;
 
-fs.writeFileSync("./LICENSE.md", license, "utf-8");
+fs.writeFileSync("./LICENSE.md", license, "utf8");
 
 process.exit();
