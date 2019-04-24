@@ -1,25 +1,26 @@
 {
-  "name": "mit",
-  "version": "1.0.0",
-  "description": "Script to add MIT license to projects",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MichelML/mit.git"
-  },
-  "keywords": [
-    "MIT",
-    "license",
-    "node.js",
-    "script"
-  ],
-  "author": "Michel Moreau",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/MichelML/mit/issues"
-  },
-  "homepage": "https://github.com/MichelML/mit#readme"
+	"name": "mit",
+	"version": "1.0.0",
+	"description": "Script to add MIT license to projects",
+	"main": "index.js",
+	"bin": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MichelML/mit.git"
+	},
+	"keywords": [
+		"MIT",
+		"license",
+		"node.js",
+		"script"
+	],
+	"author": "Michel Moreau",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/MichelML/mit/issues"
+	},
+	"homepage": "https://github.com/MichelML/mit#readme"
 }
