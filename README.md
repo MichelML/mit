@@ -4,8 +4,8 @@ Script to add MIT license to projects
 ## Install  
 
 ``` 
-git clone https://github.com/MichelML/mit.git && \ 
-cd mit && \ 
+git clone https://github.com/MichelML/mit.git &&
+cd mit &&
 npm i -g .  
 ```  
 
