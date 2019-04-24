@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const fs = require("fs");
 
 const year = new Date().getFullYear();
@@ -14,6 +15,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 `;
 
-fs.writeFileSync("./LICENSE.md", license, "utf8");
+fs.writeFileSync("./LICENSE.md", license, "utf-8");
 
 process.exit();
