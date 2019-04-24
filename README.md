@@ -12,7 +12,7 @@ npm i -g .
 ## Use   
 Run the following command in any repository you want ot add the license.
 ```  
-mit  
+mit "name of the author" 
 ```
 
 
